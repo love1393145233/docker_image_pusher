@@ -10,7 +10,7 @@ gdy666/lucky:latest
 linuxserver/qbittorrent:latest
 nyanmisaka/jellyfin:latest
 xhofe/alist:latest
-xiaoyaliu_alist:latest
+xiaoyaliu/alist:latest
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
