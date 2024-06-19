@@ -14,6 +14,7 @@ xiaoyaliu/alist:latest
 whyour/qinglong:latest
 jxxghp/moviepilot:latest
 zack357/douban-tool:latest
+cloudnas/clouddrive2
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
